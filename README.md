@@ -43,5 +43,4 @@ This dashboard helps answer key marketing questions like:
 - Created interactive reports with slicers and tooltips
 - Practiced real-world **marketing analytics** and **data storytelling**
 
----
 
