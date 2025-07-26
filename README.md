@@ -4,11 +4,6 @@ A comprehensive Marketing Campaign Performance Tracker built using **Power BI**,
 
 ---
 
-## 📁 Project Structure
-
-
----
-
 ## 📊 Project Overview
 
 This dashboard helps answer key marketing questions like:
